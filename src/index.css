@@ -3,11 +3,23 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.grocery{
+  background-color:#ECECEC;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.shopping{
+  background-color:#E4F1FE;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.stats{
+  background-color:#F2F1EF;
+  margin-left: 10px;
+  margin-right: 10px;
 }
